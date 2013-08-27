@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 hello
 hello
+=======
+hello there
+hello there
+>>>>>>> third-branch
 new addition
 121 new branch
